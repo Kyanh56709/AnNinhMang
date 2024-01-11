@@ -19,3 +19,6 @@ Link dataset
 ![image](https://github.com/Kyanh56709/AnNinhMang/assets/35425267/ee54736e-cb73-4a2a-9adf-4899f091ccf9)
 
 ![image](https://github.com/Kyanh56709/AnNinhMang/assets/35425267/c29d2534-5501-488c-8404-be54b7ed660c)
+
+# PCA
+![image](https://github.com/Kyanh56709/AnNinhMang/assets/35425267/a67a07cf-4ddd-49e8-9828-35fa2b7a1bb2)
