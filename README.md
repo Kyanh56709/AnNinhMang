@@ -7,4 +7,5 @@ Link dataset
 # 2
 ## Tinh chinh learning rate
 
-![image](https://github.com/Kyanh56709/AnNinhMang/assets/35425267/853ab196-b313-44e6-8a2d-eee5df2bf27c)
+![image](https://github.com/Kyanh56709/AnNinhMang/assets/35425267/d92e51ef-409d-46c3-b6f8-992a1a97e2ca)
+
